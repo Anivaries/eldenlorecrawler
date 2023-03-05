@@ -1,0 +1,1594 @@
+[
+    {
+        "model": "base.lore",
+        "pk": 1,
+        "fields": {
+            "name": "Erdtree",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 2,
+        "fields": {
+            "name": "Elden Ring",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 3,
+        "fields": {
+            "name": "Elden Lord",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 4,
+        "fields": {
+            "name": "Tarnished",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 5,
+        "fields": {
+            "name": "Lands Between",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 6,
+        "fields": {
+            "name": "Roundtable Hold",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 7,
+        "fields": {
+            "name": "Destined Death",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 8,
+        "fields": {
+            "name": "Death",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 9,
+        "fields": {
+            "name": "Prince of Death",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 10,
+        "fields": {
+            "name": "Those Who Live in Death",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 11,
+        "fields": {
+            "name": "Fingers",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 12,
+        "fields": {
+            "name": "Two Fingers",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 13,
+        "fields": {
+            "name": "Three Fingers",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 14,
+        "fields": {
+            "name": "Finger Maiden",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 15,
+        "fields": {
+            "name": "Finger Reader",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 16,
+        "fields": {
+            "name": "War against the Giants",
+            "belongs_to": "Events"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 17,
+        "fields": {
+            "name": "War of the Ancient Dragons",
+            "belongs_to": "Events"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 18,
+        "fields": {
+            "name": "Liurnian Wars",
+            "belongs_to": "Events"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 19,
+        "fields": {
+            "name": "Golden Order",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 20,
+        "fields": {
+            "name": "Raya Lucaria",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 21,
+        "fields": {
+            "name": "Caria",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 22,
+        "fields": {
+            "name": "Queen Marika",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 23,
+        "fields": {
+            "name": "Lunar Queen",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 24,
+        "fields": {
+            "name": "The Gloam-Eyed Queen",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 25,
+        "fields": {
+            "name": "Demi-Human Queen",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 26,
+        "fields": {
+            "name": "Radahn",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 27,
+        "fields": {
+            "name": "Academy",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 28,
+        "fields": {
+            "name": "Traveling Maiden",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 29,
+        "fields": {
+            "name": "Haligtree",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 30,
+        "fields": {
+            "name": "Fire Gian",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 31,
+        "fields": {
+            "name": "Fire Monk",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 32,
+        "fields": {
+            "name": "Cleanrot Knight",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 33,
+        "fields": {
+            "name": "Crucible Knight",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 34,
+        "fields": {
+            "name": "Mausoleum Knight",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 35,
+        "fields": {
+            "name": "Ranni",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 36,
+        "fields": {
+            "name": "Black Knife",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 37,
+        "fields": {
+            "name": "Night of the Black Knives",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 38,
+        "fields": {
+            "name": "Blackguard",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 39,
+        "fields": {
+            "name": "Black Flame",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 40,
+        "fields": {
+            "name": "Black Flame Monks",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 41,
+        "fields": {
+            "name": "Marika",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 42,
+        "fields": {
+            "name": "Liurnia",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 43,
+        "fields": {
+            "name": "Rennala",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 44,
+        "fields": {
+            "name": "Malenia",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 45,
+        "fields": {
+            "name": "Volcano Manor",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 46,
+        "fields": {
+            "name": "Lord of Blood",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 47,
+        "fields": {
+            "name": "Godfrey",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 48,
+        "fields": {
+            "name": "Eternal City",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 49,
+        "fields": {
+            "name": "Radagon",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 50,
+        "fields": {
+            "name": "Miquella",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 51,
+        "fields": {
+            "name": "Leyndell",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 52,
+        "fields": {
+            "name": "Capital",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 53,
+        "fields": {
+            "name": "Fell Omen",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 54,
+        "fields": {
+            "name": "Omen",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 55,
+        "fields": {
+            "name": "Misbegotten",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 56,
+        "fields": {
+            "name": "Caelid",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 57,
+        "fields": {
+            "name": "Altus Plateau",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 58,
+        "fields": {
+            "name": "Shattering",
+            "belongs_to": "Events"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 59,
+        "fields": {
+            "name": "Royal Capital",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 60,
+        "fields": {
+            "name": "Gelmir",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 61,
+        "fields": {
+            "name": "Rykard",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 62,
+        "fields": {
+            "name": "Sellia",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 63,
+        "fields": {
+            "name": "Greater Will",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 64,
+        "fields": {
+            "name": "Limgrave",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 65,
+        "fields": {
+            "name": "Mohg",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 66,
+        "fields": {
+            "name": "Godrick",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 67,
+        "fields": {
+            "name": "Blaidd",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 68,
+        "fields": {
+            "name": "Empyrean",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 69,
+        "fields": {
+            "name": "Maliketh",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 70,
+        "fields": {
+            "name": "Hoslo",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 71,
+        "fields": {
+            "name": "Stormveil",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 72,
+        "fields": {
+            "name": "Tanith",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 73,
+        "fields": {
+            "name": "Godskin",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 74,
+        "fields": {
+            "name": "Gideon Ofnir",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 75,
+        "fields": {
+            "name": "Dragon Communion",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 76,
+        "fields": {
+            "name": "Millicent",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 77,
+        "fields": {
+            "name": "Loretta",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 78,
+        "fields": {
+            "name": "Crucible",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 79,
+        "fields": {
+            "name": "Weeping Peninsula",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 80,
+        "fields": {
+            "name": "Vyke",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 81,
+        "fields": {
+            "name": "Ainsel",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 82,
+        "fields": {
+            "name": "Cleanrot",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 83,
+        "fields": {
+            "name": "Gurranq",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 84,
+        "fields": {
+            "name": "Reeds",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 85,
+        "fields": {
+            "name": "Dung Eater",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 86,
+        "fields": {
+            "name": "Albinauric",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 87,
+        "fields": {
+            "name": "Nokron",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 88,
+        "fields": {
+            "name": "Godwyn",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 89,
+        "fields": {
+            "name": "Night's Cavalry",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 90,
+        "fields": {
+            "name": "Conspectus",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 91,
+        "fields": {
+            "name": "Tree Sentinels",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 92,
+        "fields": {
+            "name": "Siofra",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 93,
+        "fields": {
+            "name": "Seluvis",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 94,
+        "fields": {
+            "name": "Azur",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 95,
+        "fields": {
+            "name": "Lusat",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 96,
+        "fields": {
+            "name": "Fia",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 97,
+        "fields": {
+            "name": "Mohgwyn",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 98,
+        "fields": {
+            "name": "Bloodhound",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 99,
+        "fields": {
+            "name": "Elemer",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 100,
+        "fields": {
+            "name": "Bernahl",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 101,
+        "fields": {
+            "name": "Nepheli",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 102,
+        "fields": {
+            "name": "Nox",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 103,
+        "fields": {
+            "name": "Jerren",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 104,
+        "fields": {
+            "name": "Redmane",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 105,
+        "fields": {
+            "name": "Prelates",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 106,
+        "fields": {
+            "name": "Alexander",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 107,
+        "fields": {
+            "name": "Iji",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 108,
+        "fields": {
+            "name": "Vargram",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 109,
+        "fields": {
+            "name": "Rogier",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 110,
+        "fields": {
+            "name": "Aeonia",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 111,
+        "fields": {
+            "name": "Lunar Queen",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 112,
+        "fields": {
+            "name": "Morgott",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 113,
+        "fields": {
+            "name": "Kaiden",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 114,
+        "fields": {
+            "name": "Niall",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 115,
+        "fields": {
+            "name": "Dominula",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 116,
+        "fields": {
+            "name": "Sellen",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 117,
+        "fields": {
+            "name": "Shabriri",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 118,
+        "fields": {
+            "name": "Cuckoo",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 119,
+        "fields": {
+            "name": "Gransax",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 120,
+        "fields": {
+            "name": "Marais",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 121,
+        "fields": {
+            "name": "Trina",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 122,
+        "fields": {
+            "name": "Blackflame",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 123,
+        "fields": {
+            "name": "Zamor",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 124,
+        "fields": {
+            "name": "Loux",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 125,
+        "fields": {
+            "name": "Frenzied Flame",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 126,
+        "fields": {
+            "name": "Farum Azula",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 127,
+        "fields": {
+            "name": "Yura",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 128,
+        "fields": {
+            "name": "Istvan",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 129,
+        "fields": {
+            "name": "Stormhill",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 130,
+        "fields": {
+            "name": "Goldmask",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 131,
+        "fields": {
+            "name": "Boc",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 132,
+        "fields": {
+            "name": "Crystalians",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 133,
+        "fields": {
+            "name": "Agheel",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 134,
+        "fields": {
+            "name": "Greattree",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 135,
+        "fields": {
+            "name": "Diallos",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 136,
+        "fields": {
+            "name": "Hewg",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 137,
+        "fields": {
+            "name": "Irina",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 138,
+        "fields": {
+            "name": "Valiant Gargoyles",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 139,
+        "fields": {
+            "name": "Dragonlord",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 140,
+        "fields": {
+            "name": "Numen",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 141,
+        "fields": {
+            "name": "Beast Clergyman",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 142,
+        "fields": {
+            "name": "Kenneth Haight",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 143,
+        "fields": {
+            "name": "Oracle Envoys",
+            "belongs_to": "Other"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 144,
+        "fields": {
+            "name": "Serosh",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 145,
+        "fields": {
+            "name": "Boggart",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 146,
+        "fields": {
+            "name": "Rya",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 147,
+        "fields": {
+            "name": "Okina",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 148,
+        "fields": {
+            "name": "Miriel",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 149,
+        "fields": {
+            "name": "Latenna",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 150,
+        "fields": {
+            "name": "Roderika",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 151,
+        "fields": {
+            "name": "Fortissax",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 152,
+        "fields": {
+            "name": "Lionel",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 153,
+        "fields": {
+            "name": "Ensha",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 154,
+        "fields": {
+            "name": "Tragoth",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 155,
+        "fields": {
+            "name": "Demi-Human",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 156,
+        "fields": {
+            "name": "Renna",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 157,
+        "fields": {
+            "name": "the Long March",
+            "belongs_to": "Events"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 158,
+        "fields": {
+            "name": "Mad Tongue Alberich",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 159,
+        "fields": {
+            "name": "Lansseax",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 160,
+        "fields": {
+            "name": "Patches",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 161,
+        "fields": {
+            "name": "Eleonora",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 162,
+        "fields": {
+            "name": "Inaba",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 163,
+        "fields": {
+            "name": "Margit",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 164,
+        "fields": {
+            "name": "Ravenmount",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 165,
+        "fields": {
+            "name": "Deathbird",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 166,
+        "fields": {
+            "name": "Corhyn",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 167,
+        "fields": {
+            "name": "Gowry",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 168,
+        "fields": {
+            "name": "Rollo",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 169,
+        "fields": {
+            "name": "Eochaid",
+            "belongs_to": "Places"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 170,
+        "fields": {
+            "name": "Wilhelm",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 171,
+        "fields": {
+            "name": "Astel",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 172,
+        "fields": {
+            "name": "Golem",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 173,
+        "fields": {
+            "name": "Alabaster",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 174,
+        "fields": {
+            "name": "Theodorix",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 175,
+        "fields": {
+            "name": "Siluria",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 176,
+        "fields": {
+            "name": "Ordovis",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 177,
+        "fields": {
+            "name": "Albus",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 178,
+        "fields": {
+            "name": "Garris",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 179,
+        "fields": {
+            "name": "Graven",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 180,
+        "fields": {
+            "name": "Hugues",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 181,
+        "fields": {
+            "name": "Kristoff",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 182,
+        "fields": {
+            "name": "Neidhardt",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 183,
+        "fields": {
+            "name": "Cadre",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 184,
+        "fields": {
+            "name": "Crystalian",
+            "belongs_to": "Groups"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 185,
+        "fields": {
+            "name": "Birac",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 186,
+        "fields": {
+            "name": "Amon",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 187,
+        "fields": {
+            "name": "Nial",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 188,
+        "fields": {
+            "name": "Finlay",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 189,
+        "fields": {
+            "name": "Miranda",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 190,
+        "fields": {
+            "name": "Lhutel",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 191,
+        "fields": {
+            "name": "Onyx",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 192,
+        "fields": {
+            "name": "Tricia",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 193,
+        "fields": {
+            "name": "Ekzykes",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 194,
+        "fields": {
+            "name": "Magma Wyrm",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 195,
+        "fields": {
+            "name": "Melina",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 196,
+        "fields": {
+            "name": "Greyoll",
+            "belongs_to": "Creatures"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 197,
+        "fields": {
+            "name": "Swordstress",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 198,
+        "fields": {
+            "name": "Milos",
+            "belongs_to": "People"
+        }
+    },
+    {
+        "model": "base.lore",
+        "pk": 199,
+        "fields": {
+            "name": "Omenkiller",
+            "belongs_to": "Groups"
+        }
+    }
+]
